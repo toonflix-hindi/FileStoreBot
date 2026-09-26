@@ -7,9 +7,9 @@ from config import LOGGER
 import os
 
 
-TOKEN = "8032039427"
-API_ID = 25
-API_HASH = "f7ac"
+TOKEN = "8876706217:AAEybM2VKvaQeBhKb89VbBM5R_EV8AjBE-Q"
+API_ID = 35520548
+API_HASH = "1817a19fa09d4e4fe114266673542752"
 
 BOT_FLEET = {
     "〶 Bot 1": "MiyamotoFileBot",
@@ -18,7 +18,7 @@ BOT_FLEET = {
 }
 
 ACTIVE_BOT_KEY = "〶 Bot 1" 
-ADMIN_IDS = [7099729191]
+ADMIN_IDS = [8438792943]
 REDIRECT_PHOTO = "https://graph.org/file/720725f0cb4e2975cd4f8-4fee1fc19b395c1dce.jpg"
 
 
